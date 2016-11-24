@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioWorkSpace\DhNews\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Android\AndroidStudioWorkSpace\DhNews\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.0_1391786bbbc85e2be63cfc3996ad76c8e1249953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Android\AndroidStudioWorkSpace\DhNews\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0_766f300c53e4a04f5f3c782de6352fa14713016e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioWorkSpace\DhNews\app\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
+        <dex dex="C:\Android\AndroidStudioWorkSpace\DhNews\app\build\intermediates\pre-dexed\debug\org.apache.http.legacy_34833afd917ebad5266d2bd557843dd8b1ffc272.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioWorkSpace\DhNews\app\build\intermediates\exploded-aar\com.yqritc\recyclerview-flexibledivider\1.2.9\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3a03e6e942bcc46a8d01c2da5d8a2147ecab113d">
+        <dex dex="C:\Android\AndroidStudioWorkSpace\DhNews\app\build\intermediates\pre-dexed\debug\com.yqritc-recyclerview-flexibledivider-1.2.9_f8e19523d3e94fcdddaa277508c0fc0a4e604aed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioWorkSpace\DhNews\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Android\AndroidStudioWorkSpace\DhNews\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.0_b01df6e4eb64d16c4556b1ca50b64aa3d2c6ee8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioWorkSpace\DhNews\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="C:\Android\AndroidStudioWorkSpace\DhNews\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.0_ea5edd4c3ef018d5e5ffb3e3a9722adf0de39e83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioWorkSpace\DhNews\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Android\AndroidStudioWorkSpace\DhNews\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.0_73ac82af811bcb888e8e683ec0fc5968f316023f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioWorkSpace\DhNews\app\libs\jsoup\jsoup-1.8.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3a86e137575e4a45f5a9eec407f8135512e823a2">
+        <dex dex="C:\Android\AndroidStudioWorkSpace\DhNews\app\build\intermediates\pre-dexed\debug\jsoup-1.8.3_ba1be342ab9dd780d85c0929c6dfee45237d5dce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioWorkSpace\DhNews\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Android\AndroidStudioWorkSpace\DhNews\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_93c390dbc45b5d801417322f364d350a160ddd8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioWorkSpace\DhNews\app\build\intermediates\exploded-aar\DhNews\vitamio01\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1e1a194f8c94d11e27815781745758986d879050">
+        <dex dex="C:\Android\AndroidStudioWorkSpace\DhNews\app\build\intermediates\pre-dexed\debug\DhNews-vitamio01-unspecified_bf46bf164826588478374b280a71daa0b38e03e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioWorkSpace\DhNews\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Android\AndroidStudioWorkSpace\DhNews\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.0_7c89191c4d63758aafb74aa76cfdc11dc8dea102.jar" />
+    </item>
+
+</items>
